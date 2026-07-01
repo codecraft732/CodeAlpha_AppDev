@@ -197,13 +197,14 @@ Here is how information travels through the app:
 <p align="center">
   <img src="app/src/main/res/drawable/1.jpeg" width="180">
   <img src="app/src/main/res/drawable/2.jpeg" width="180">
-  <img src="app/src/main/res/drawable/3.jpeg" width="180">
-  <img src="app/src/main/res/drawable/4.jpeg" width="180">
+  <img src="app/src/main/res/drawable/7.jpeg" width="180">
+  
 </p>
 <p align="center">
   <img src="app/src/main/res/drawable/5.jpeg" width="180">
+  <img src="app/src/main/res/drawable/3.jpeg" width="180">
   <img src="app/src/main/res/drawable/6.jpeg" width="180">
-  <img src="app/src/main/res/drawable/7.jpeg" width="180">
+<img src="app/src/main/res/drawable/4.jpeg" width="180">
 
 </p>
 <p align="center">
